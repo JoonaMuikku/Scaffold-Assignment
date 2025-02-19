@@ -1,5 +1,5 @@
-Scaffold Assignment // 6. Weekly assignment // t3mujo00
+Scaffold - TopBar with multiple screens and navigation Assignment // 6. Weekly assignment // t3mujo00
 
-![image](https://github.com/user-attachments/assets/aadaa36b-3f26-4101-b700-31039ba55308)
-![image](https://github.com/user-attachments/assets/a50f5528-5190-4188-9291-0e832c8a4c13)
-![image](https://github.com/user-attachments/assets/aa3de933-d80b-482e-be98-e2cfbb0d1b28)
+![image](https://github.com/user-attachments/assets/ea6a379f-b533-4e45-873a-57962fad7eba)
+![image](https://github.com/user-attachments/assets/4f980816-5e52-4e03-ab15-43d3993e152f)
+![image](https://github.com/user-attachments/assets/993cc7b0-6acc-4d37-885a-6f33c36224d8)
